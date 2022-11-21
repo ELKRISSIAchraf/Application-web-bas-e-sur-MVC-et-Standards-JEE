@@ -60,11 +60,12 @@ web développée doit respecter le patron de conception MVC.
 ## Gestion de Lignes des Commandes:
 
 ### La liste des Lignes des Commandes:
-
+![Capture d’écran 2022-11-22 002449](https://user-images.githubusercontent.com/101187429/203178432-64258458-0299-498d-9e4c-b8ef1fc67738.jpg)
+![Capture d’écran 2022-11-22 002514](https://user-images.githubusercontent.com/101187429/203178440-b63bc746-87f5-482c-8bc3-129d6400f627.jpg)
 ### Ajouter Ligne de Commande :
-
+![Capture d’écran 2022-11-22 002552](https://user-images.githubusercontent.com/101187429/203178451-11b20616-79d9-4ad1-aec5-c2856106c843.jpg)
 ### Modifier Ligne de Commande :
-
+![Capture d’écran 2022-11-22 002637](https://user-images.githubusercontent.com/101187429/203178467-b4da3960-eeba-4f2b-aab7-2549b767ab41.jpg)
 ### Supprimer  Ligne de Commande  :
 
 
