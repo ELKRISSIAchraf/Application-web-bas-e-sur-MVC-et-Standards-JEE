@@ -9,6 +9,7 @@ web développée doit respecter le patron de conception MVC.
 ## Diagramme de classe :
 ![diagramedeclasse](https://user-images.githubusercontent.com/101187429/203170699-a8bd44ed-a86b-44cc-b8df-584f374271c2.jpg)
 ## Schéma de base de données :
+![Capture d’écran 2022-11-21 221932](https://user-images.githubusercontent.com/101187429/203172808-90a06595-8045-4f17-88db-3e4dcf16cdf7.jpg)
 
 ## Structure du projet :
 
