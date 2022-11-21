@@ -23,4 +23,5 @@ web développée doit respecter le patron de conception MVC.
 ### Modifier Client :
 ![Capture d’écran 2022-11-21 235734](https://user-images.githubusercontent.com/101187429/203174732-49622342-959d-4dd6-bb19-785a59ea59b4.jpg)
 ### Supprimer  Client :
+![Capture d’écran 2022-11-22 000051](https://user-images.githubusercontent.com/101187429/203175137-706d9e08-82ef-441d-b49e-4f32ba2b7a95.jpg)
 
