@@ -25,3 +25,15 @@ web développée doit respecter le patron de conception MVC.
 ### Supprimer  Client :
 ![Capture d’écran 2022-11-22 000051](https://user-images.githubusercontent.com/101187429/203175137-706d9e08-82ef-441d-b49e-4f32ba2b7a95.jpg)
 ![Capture d’écran 2022-11-22 000204](https://user-images.githubusercontent.com/101187429/203175269-8a77de4b-9b97-4c9a-8d6f-e6815b5f442d.jpg)
+
+
+## Gestion des Produits:
+
+### La liste des produits :
+
+### Ajouter Produit :
+
+### Modifier Produit :
+
+### Supprimer  Produit :
+
