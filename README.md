@@ -17,7 +17,7 @@ web développée doit respecter le patron de conception MVC.
 ## Gestion des Clients:
 
 ### La liste des clients :
-
+<img width="926" alt="image" src="https://user-images.githubusercontent.com/101187429/203173405-8e6fb175-f9e1-4bf4-9624-dac6b006b02a.png">
 ### Ajouter Client :
 
 ### Modifier Client :
