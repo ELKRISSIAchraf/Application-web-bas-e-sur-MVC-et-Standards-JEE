@@ -48,10 +48,10 @@ web développée doit respecter le patron de conception MVC.
 ## Gestion des Commandes:
 
 ### La liste des Commandes :
-
+![Capture d’écran 2022-11-22 001623](https://user-images.githubusercontent.com/101187429/203177326-b5df707c-e26d-4607-a0eb-1b6e99da3733.jpg)
 ### Ajouter Commande :
-
+![Capture d’écran 2022-11-22 001710](https://user-images.githubusercontent.com/101187429/203177347-fe6ea3d4-618b-4f84-a4e3-d0303e698d7c.jpg)
 ### Modifier Commande :
-
+![Capture d’écran 2022-11-22 001801](https://user-images.githubusercontent.com/101187429/203177357-19e9ae57-bcb8-4168-83e8-2776bd48adff.jpg)
 ### Supprimer  Commande :
 
