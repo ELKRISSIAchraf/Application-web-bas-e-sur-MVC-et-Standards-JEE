@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app id="WebApp_ID" version="2.4"
+xmlns="http://java.sun.com/xml/ns/j2ee"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee
+http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd">
+ <display-name>atelier1</display-name>
+<servlet>
+<servlet-name>ClientController</servlet-name>
+<servlet-class>ma.fstt.servlets.ClientController</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>ClientController</servlet-name>
+<url-pattern>/client</url-pattern>
+</servlet-mapping>
+<servlet>
+<servlet-name>CommandeController</servlet-name>
+<servlet-class>ma.fstt.servlets.CommandeController</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>CommandeController</servlet-name>
+<url-pattern>/commande</url-pattern>
+</servlet-mapping>
+<servlet>
+<servlet-name>ProduitController</servlet-name>
+<servlet-class>ma.fstt.servlets.ProduitController</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>ProduitController</servlet-name>
+<url-pattern>/produit</url-pattern>
+</servlet-mapping>
+<servlet>
+<servlet-name>LignedeCommandeController</servlet-name>
+<servlet-class>ma.fstt.servlets.LignedeCommandeController</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>LignedeCommandeController</servlet-name>
+<url-pattern>/lignedecommande</url-pattern>
+</servlet-mapping>
+</web-app>
