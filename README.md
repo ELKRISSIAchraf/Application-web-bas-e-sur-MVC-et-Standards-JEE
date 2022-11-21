@@ -36,6 +36,7 @@ web développée doit respecter le patron de conception MVC.
 ![Capture d’écran 2022-11-22 000652](https://user-images.githubusercontent.com/101187429/203175985-8bf508da-62e2-4f28-a403-91a370075706.jpg)
 
 ### Modifier Produit :
+![Capture d’écran 2022-11-22 001009](https://user-images.githubusercontent.com/101187429/203176369-4f2c200c-cc49-4c20-94cb-6ffedacf01d1.jpg)
 
 ### Supprimer  Produit :
 
