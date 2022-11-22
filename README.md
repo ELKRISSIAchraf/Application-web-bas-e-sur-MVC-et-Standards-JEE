@@ -7,7 +7,7 @@ via la mise en place d’une application web qui gère des commandes de plusieur
 web développée doit respecter le patron de conception MVC.
 
 ## Diagramme de classe :
-![diagramedeclasse](https://user-images.githubusercontent.com/101187429/203170699-a8bd44ed-a86b-44cc-b8df-584f374271c2.jpg)
+![Capture d’écran 2022-11-22 205121](https://user-images.githubusercontent.com/101187429/203408289-d00b5e42-eb5a-4acf-823f-15dc8dddbef2.jpg)
 ## Schéma de base de données :
 ![Capture d’écran 2022-11-21 221932](https://user-images.githubusercontent.com/101187429/203172808-90a06595-8045-4f17-88db-3e4dcf16cdf7.jpg)
 
